@@ -67,22 +67,22 @@ user_groups = ["Researchers", "Visitors"]
 [[social]]
   icon = "google-scholar"
   icon_pack = "ai"
-  link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+  link = "https://scholar.google.com/citations?user=5qCK-R0AAAAJ&hl=en"
 
 [[social]]
   icon = "github"
   icon_pack = "fab"
-  link = "https://github.com/gcushen"
+  link = "https://github.com/Jokeren"
 
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
-  link = ""
+  link = "https://www.linkedin.com/in/kerenzhou/"
 
 [[social]]
   icon = "stackoverflow"
   icon_pack = "fab"
-  link = ""
+  link = "https://stackoverflow.com/users/1290983/chain-ro"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
