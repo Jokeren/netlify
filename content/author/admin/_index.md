@@ -80,7 +80,7 @@ user_groups = ["Researchers", "Visitors"]
   link = "https://www.linkedin.com/in/kerenzhou/"
 
 [[social]]
-  icon = "stackoverflow"
+  icon = "stack-overflow"
   icon_pack = "fab"
   link = "https://stackoverflow.com/users/1290983/chain-ro"
 
