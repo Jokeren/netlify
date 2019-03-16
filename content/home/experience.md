@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "California"
   date_start = "2018-06-23"
   date_end = "2018-08-17"
-  description = """
+  description = """Neural Network Optimization on Mobiles
   """
 
 [[experience]]
@@ -35,7 +35,17 @@ date_format = "January 2006"
   location = "Beijing"
   date_start = "2017-04-01"
   date_end = "2017-07-15"
-  description = """
+  description = """Neural Network Quantization 
+  """
+
+[[experience]]
+  title = "SDE Intern"
+  company = "Baidu Inc"
+  company_url = ""
+  location = "Beijing"
+  date_start = "2013-10-01"
+  date_end = "2014-02-01"
+  description = """Hadoop Workflow Optimization 
   """
 
 +++
