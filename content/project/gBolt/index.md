@@ -5,10 +5,11 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = []
+tags = ["data-mining", "parallel-computing"]
 
 # Project summary to display on homepage.
-summary = ""
+summary = "gBolt is up to 100x faster (see detailed experiments) than Yan's original implementation with multi-threading on a single machine. gBolt also reduces more than 200 folds memory usage, running efficiently on personal computers.
+"
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +20,7 @@ summary = ""
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link = "https://github.com/Jokeren/gBolt"
 
 # Links (optional).
 url_pdf = ""
