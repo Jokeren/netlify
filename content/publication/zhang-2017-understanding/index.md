@@ -1,0 +1,10 @@
++++
+title = "Understanding the GPU microarchitecture to achieve bare-metal performance tuning"
+date = 2017-01-01
+authors = ["Xiuxia Zhang", "Guangming Tan", "Shuangbai Xue", "Jiajia Li", "Keren Zhou", "Mingyu Chen"]
+publication_types = ["2"]
+abstract = ""
+featured = false
+publication = "*ACM SIGPLAN Notices*"
++++
+
