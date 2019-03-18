@@ -8,7 +8,7 @@ draft = false
 tags = ["data-mining", "parallel-computing"]
 
 # Project summary to display on homepage.
-summary = "A fast, memory efficient, and light-weight implementation for gSpan algorithm in data mining. gBolt is up to 100x faster (see detailed experiments) than Yan's original implementation with multi-threading on a single machine. gBolt also reduces more than 200 folds memory usage, running efficiently on personal computers."
+summary = "A fast, memory efficient, and light-weight implementation for gSpan algorithm in data mining. gBolt is up to 100x faster than the original implementation with multi-threading on a single machine. gBolt also reduces more than 200 folds memory usage, running efficiently on personal computers."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
