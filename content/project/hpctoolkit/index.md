@@ -1,14 +1,14 @@
 +++
-title = "gBolt"
-date = 2019-03-17T21:44:42-07:00
+title = "Hpctoolkit"
+date = 2019-03-17T22:01:15-07:00
 draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["data-mining", "parallel-computing"]
+tags = ["performance-tool", "parallel-computing"]
 
 # Project summary to display on homepage.
-summary = "A fast, memory efficient, and light-weight implementation for gSpan algorithm in data mining. gBolt is up to 100x faster (see detailed experiments) than Yan's original implementation with multi-threading on a single machine. gBolt also reduces more than 200 folds memory usage, running efficiently on personal computers."
+summary = "Extending HPCToolkit to provide a complete profile view for GPU-accelerated applications."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +19,7 @@ summary = "A fast, memory efficient, and light-weight implementation for gSpan a
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Jokeren/gBolt"
+external_link = "https://github.com/HPCToolkit/hpctoolkit/tree/ompt-device-cfg-master"
 
 # Links (optional).
 url_pdf = ""
