@@ -8,8 +8,7 @@ draft = false
 tags = ["data-mining", "parallel-computing"]
 
 # Project summary to display on homepage.
-summary = "gBolt is up to 100x faster (see detailed experiments) than Yan's original implementation with multi-threading on a single machine. gBolt also reduces more than 200 folds memory usage, running efficiently on personal computers.
-"
+summary = "gBolt is up to 100x faster (see detailed experiments) than Yan's original implementation with multi-threading on a single machine. gBolt also reduces more than 200 folds memory usage, running efficiently on personal computers."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
