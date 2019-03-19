@@ -5,6 +5,8 @@ authors = ["Xiuxia Zhang", "Guangming Tan", "Shuangbai Xue", "Jiajia Li", "Keren
 publication_types = ["2"]
 abstract = ""
 featured = false
-publication = "*ACM SIGPLAN Notices*"
+publication = "*ACM SIGPLAN Notices* (PPoPP'17)"
+url_source = "https://dl.acm.org/citation.cfm?id=3018755"
+tags = ["Deep Learning", "GPU"]
 +++
 

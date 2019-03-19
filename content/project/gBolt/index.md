@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["data-mining", "parallel-computing"]
+tags = ["Data Mining", "Parallel Computing"]
 
 # Project summary to display on homepage.
 summary = "A fast, memory efficient, and light-weight implementation for gSpan algorithm in data mining. gBolt is up to 100x faster than the original implementation with multi-threading on a single machine. gBolt also reduces more than 200 folds memory usage, running efficiently on personal computers."

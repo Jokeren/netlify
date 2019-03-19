@@ -8,12 +8,12 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Academic Kickstart"
+title = "News"
 subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "1"
+  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -43,4 +43,18 @@ subtitle = ""
  css_class = ""
 +++
 
-Hello world!
+- 02/2019 Attend CGO'19
+- 01/2019 Start [COMP 522](https://www.cs.rice.edu/~johnmc/comp522/) TA
+- 08/2018 Start [COMP 422](https://www.clear.rice.edu/comp422/) TA
+- 06/2018 Join Facebook
+- 01/2018 Start [COMP 421](https://www.clear.rice.edu/comp421/) TA
+- 11/2017 Attend SC'17
+- 10/2017 Refactor DeepPerf [Solver](https://github.com/PAA-NCIC/DeepPerf/tree/master/Solver)
+- 09/2017 Take part in [Openmp Tools Interface](https://github.com/OpenMPToolsInterface)
+- 08/2017 Enroll in Rice
+- 07/2017 Take a vacation
+- 06/2017 Attend ICS'17
+- 05/2017 Refactor [gBolt](https://github.com/Jokeren/gBolt)
+- 04/2017 Update homepage
+- 03/2017 Keep contributing to [torch](https://github.com/torch/torch7)
+- 11/2016 Release blitz v0.1: [blitz v0.1](https://github.com/PAA-NCIC/blitz/releases/tag/v0.1)

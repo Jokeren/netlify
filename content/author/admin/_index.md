@@ -94,3 +94,5 @@ user_groups = []
 +++
 
 I am a graduate student at Rice University, advised by Professor [John Mellor-Crummey](https://www.cs.rice.edu/~johnmc/). Previously, I studied at Institute of Computing Technology, Chinese Academy of Sciences in Professor [Guangming Tan](http://www.ncic.ac.cn/~tgm/index.php/Main_Page)'s [PAA group](https://github.com/PAA-NCIC). Prior to that, I was an undergraduate student in Yunnan University, advised by Professor Wei Zhou.
+
+Resume [brief](assets/resume_brief.pdf), [full](assets/resume_full.pdf)

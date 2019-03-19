@@ -5,6 +5,8 @@ authors = ["Qiang Li", "Maojie Gu", "Keren Zhou", "Xiaoming Sun"]
 publication_types = ["1"]
 abstract = ""
 featured = false
-publication = "*2015 IEEE International Conference on Data Mining Workshop (ICDMW)*"
+publication = "*2015 IEEE International Conference on Data Mining Workshop* (ICDMW'15)"
+url_source = "https://ieeexplore.ieee.org/document/7395783"
+tags = ["Data Mining"]
 +++
 

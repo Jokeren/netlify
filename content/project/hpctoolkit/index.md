@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["performance-tool", "parallel-computing"]
+tags = ["Performance Tool", "Parallel Computing"]
 
 # Project summary to display on homepage.
 summary = "Extending HPCToolkit to provide a complete profile view for GPU-accelerated applications."

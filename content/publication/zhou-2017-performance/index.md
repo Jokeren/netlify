@@ -5,6 +5,8 @@ authors = ["Keren Zhou", "Guangming Tan", "Xiuxia Zhang", "Chaowei Wang", "Ningh
 publication_types = ["1"]
 abstract = ""
 featured = false
-publication = "*Proceedings of the International Conference on Supercomputing*"
+publication = "*Proceedings of the International Conference on Supercomputing* (ICS'17)"
+url_source="https://dl.acm.org/citation.cfm?id=3079083"
+tags = ["Performance Tool", "GPU"]
 +++
 

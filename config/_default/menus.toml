@@ -28,6 +28,16 @@
   url = "#talks"
   weight = 50
 
+[[main]]
+  name = "News"
+  url = "#news"
+  weight = 60
+
+[[main]]
+  name = "Topics"
+  url = "#tags"
+  weight = 70
+
 #[[main]]
 #  name = "Tutorials"
 #  url = "/tutorial/"
