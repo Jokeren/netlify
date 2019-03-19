@@ -42,7 +42,8 @@ tags = ["GPU", "Performance Tool"]
 slides = ""
 
 # Optional filename of your slides within your talk folder or a URL.
-url_slides = "assets/CGO_19_poster.pdf"
+url_slides = "assets/CGO_19_slides.pdf"
+url_poster = "assets/CGO_19_poster.pdf"
 
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
