@@ -57,7 +57,7 @@ user_groups = []
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:kerenzhou@outlook.com".
+  link = "mailto:kerenzhou@outlook.com"  # For a direct email link, use "mailto:kerenzhou@outlook.com".
 
 [[social]]
   icon = "twitter"
