@@ -43,18 +43,20 @@ subtitle = ""
  css_class = ""
 +++
 
-- Feb 2019 Attend CGO'19
-- Jan 2019 Start [COMP 522](https://www.cs.rice.edu/~johnmc/comp522/) TA
-- Aug 2018 Start [COMP 422](https://www.clear.rice.edu/comp422/) TA
-- Jun 2018 Join Facebook
-- Jan 2018 Start [COMP 421](https://www.clear.rice.edu/comp421/) TA
-- Nov 2017 Attend SC'17
-- Oct 2017 Refactor DeepPerf [Solver](https://github.com/PAA-NCIC/DeepPerf/tree/master/Solver)
-- Sep 2017 Take part in [Openmp Tools Interface](https://github.com/OpenMPToolsInterface)
-- Aug 2017 Enroll in Rice
-- Jul 2017 Take a vacation
-- Jun 2017 Attend ICS'17
-- May 2017 Refactor [gBolt](https://github.com/Jokeren/gBolt)
-- Apr 2017 Update homepage
-- Mar 2017 Keep contributing to [torch](https://github.com/torch/torch7)
-- Nov 2016 Release blitz v0.1: [blitz v0.1](https://github.com/PAA-NCIC/blitz/releases/tag/v0.1)
+- *Mar 2019* Release [gBolt-v1.0](https://github.com/Jokeren/gBolt/releases/tag/v1.0)
+- *Feb 2019* Attend CGO'19
+- *Jan 2019* Start [COMP 522](https://www.cs.rice.edu/~johnmc/comp522/) TA
+- *Aug 2018* Start [COMP 422](https://www.clear.rice.edu/comp422/) TA
+- *Jun 2018* Attend ICS'18
+- *Jun 2018* Join Facebook
+- *Jan 2018* Start [COMP 421](https://www.clear.rice.edu/comp421/) TA
+- *Nov 2017* Attend SC'17
+- *Oct 2017* Refactor DeepPerf [Solver](https://github.com/PAA-NCIC/DeepPerf/tree/master/Solver)
+- *Sep 2017* Take part in [Openmp Tools Interface](https://github.com/OpenMPToolsInterface)
+- *Aug 2017* Enroll in Rice
+- *Jul 2017* Take a vacation
+- *Jun 2017* Attend ICS'17
+- *May 2017* Refactor [gBolt](https://github.com/Jokeren/gBolt)
+- *Apr 2017* Update homepage
+- *Mar 2017* Keep contributing to [torch](https://github.com/torch/torch7)
+- *Nov 2016* Release [blitz v0.1](https://github.com/PAA-NCIC/blitz/releases/tag/v0.1)
