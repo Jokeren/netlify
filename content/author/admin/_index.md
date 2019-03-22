@@ -37,7 +37,7 @@ user_groups = []
 [[education.courses]]
   course = "PhD in Computer Science"
   institution = "School of Engineering, Rice University"
-  #year = 2023 (expected)
+  year = 2023
 
 [[education.courses]]
   course = "MS in Computer Science"
