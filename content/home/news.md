@@ -43,6 +43,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- *July 2019* Attend [Scalable Tools Workshop](https://dyninst.github.io/scalable_tools_workshop/petascale2019/index.html)
 - *Apr 2019* Take part in [OpenMP Brookathon 2019](https://www.bnl.gov/ompbrookathon2019/)
 - *Mar 2019* Release [gBolt-v1.0](https://github.com/Jokeren/gBolt/releases/tag/v1.0)
 - *Feb 2019* Attend CGO'19
