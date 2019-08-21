@@ -11,9 +11,7 @@ weight = 60  # Order that this section will appear.
 title = "News"
 subtitle = ""
 
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+[design] # Choose how many columns the section has. Valid values: 1 or 2.  columns = "2"
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -43,22 +41,22 @@ subtitle = ""
  css_class = ""
 +++
 
-- *July 2019* Attend [Scalable Tools Workshop](https://dyninst.github.io/scalable_tools_workshop/petascale2019/index.html)
-- *Apr 2019* Take part in [OpenMP Brookathon 2019](https://www.bnl.gov/ompbrookathon2019/)
-- *Mar 2019* Release [gBolt-v1.0](https://github.com/Jokeren/gBolt/releases/tag/v1.0)
-- *Feb 2019* Attend CGO'19
-- *Jan 2019* Start [COMP 522](https://www.cs.rice.edu/~johnmc/comp522/) TA
-- *Aug 2018* Start [COMP 422](https://www.clear.rice.edu/comp422/) TA
-- *Jun 2018* Attend ICS'18
-- *Jun 2018* Join Facebook
-- *Jan 2018* Start [COMP 421](https://www.clear.rice.edu/comp421/) TA
-- *Nov 2017* Attend SC'17
-- *Oct 2017* Refactor DeepPerf [Solver](https://github.com/PAA-NCIC/DeepPerf/tree/master/Solver)
-- *Sep 2017* Take part in [Openmp Tools Interface](https://github.com/OpenMPToolsInterface)
-- *Aug 2017* Enroll in Rice
-- *Jul 2017* Take a vacation
-- *Jun 2017* Attend ICS'17
-- *May 2017* Refactor [gBolt](https://github.com/Jokeren/gBolt)
-- *Apr 2017* Update homepage
-- *Mar 2017* Keep contributing to [torch](https://github.com/torch/torch7)
-- *Nov 2016* Release [blitz v0.1](https://github.com/PAA-NCIC/blitz/releases/tag/v0.1)
+- *July 2019* Attended [Scalable Tools Workshop](https://dyninst.github.io/scalable_tools_workshop/petascale2019/index.html)
+- *Apr 2019* Took part in [OpenMP Brookathon 2019](https://www.bnl.gov/ompbrookathon2019/)
+- *Mar 2019* Released [gBolt-v1.0](https://github.com/Jokeren/gBolt/releases/tag/v1.0)
+- *Feb 2019* Attended CGO'19
+- *Jan 2019* Started [COMP 522](https://www.cs.rice.edu/~johnmc/comp522/) TA
+- *Aug 2018* Started [COMP 422](https://www.clear.rice.edu/comp422/) TA
+- *Jun 2018* Attended ICS'18
+- *Jun 2018* Joined Facebook
+- *Jan 2018* Started [COMP 421](https://www.clear.rice.edu/comp421/) TA
+- *Nov 2017* Attended SC'17
+- *Oct 2017* Refactored DeepPerf [Solver](https://github.com/PAA-NCIC/DeepPerf/tree/master/Solver)
+- *Sep 2017* Took part in [Openmp Tools Interface](https://github.com/OpenMPToolsInterface)
+- *Aug 2017* Enrolled in Rice
+- *Jul 2017* Took a vacation
+- *Jun 2017* Attended ICS'17
+- *May 2017* Refactored [gBolt](https://github.com/Jokeren/gBolt)
+- *Apr 2017* Updated homepage
+- *Mar 2017* Contributed to [torch](https://github.com/torch/torch7)
+- *Nov 2016* Released [blitz v0.1](https://github.com/PAA-NCIC/blitz/releases/tag/v0.1)
