@@ -41,6 +41,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- *Aug 2019* Took part in [ECP/NERSC OpenMP Hackathon 2019](https://www.nersc.gov/users/training/events/ecp-nersc-openmp-hackathon-aug2019/)
 - *July 2019* Attended [Scalable Tools Workshop](https://dyninst.github.io/scalable_tools_workshop/petascale2019/index.html)
 - *Apr 2019* Took part in [OpenMP Brookathon 2019](https://www.bnl.gov/ompbrookathon2019/)
 - *Mar 2019* Released [gBolt-v1.0](https://github.com/Jokeren/gBolt/releases/tag/v1.0)
