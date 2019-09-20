@@ -8,7 +8,7 @@ draft = false
 tags = ["Performance Tool", "Parallel Computing"]
 
 # Project summary to display on homepage.
-summary = "Extending HPCToolkit to provide a complete profile view for GPU-accelerated applications."
+summary = "Our tool provides a profile view and a trace view for GPU-accelerated applications. The profile view identifies where GPU APIs are invoked in CPU calling context, approximates calling context for GPU execution, and analyzes instruction mix for GPU kernels. The tool traces CPU and GPU activities for a large number of processes and threads with minimal overhead."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
@@ -19,7 +19,7 @@ summary = "Extending HPCToolkit to provide a complete profile view for GPU-accel
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/HPCToolkit/hpctoolkit/tree/ompt-device-cfg-master"
+external_link = "https://github.com/HPCToolkit/hpctoolkit/tree/master-gpu"
 
 # Links (optional).
 url_pdf = ""
