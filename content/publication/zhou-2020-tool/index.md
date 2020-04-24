@@ -5,6 +5,6 @@ authors = ["Keren Zhou", "Mark Krentel", "John Mellor-Crummey"]
 publication_types = ["1"]
 abstract = ""
 featured = false
-publication = "*Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming*"
+publication = "*Proceedings of the 25th ACM SIGPLAN Symposium on Principles and Practice of Parallel Programming (PPoPP'20)*"
 +++
 
