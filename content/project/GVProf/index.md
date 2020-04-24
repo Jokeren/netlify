@@ -8,7 +8,7 @@ draft = false
 tags = ["Performance Tool", "GPU", "Instrumentation"]
 
 # Project summary to display on homepage.
-summary = "We implemented GVProf, the first value profiler that locates value redundancy problems in applications running on GPU-based clusters. Our experiments show that GVProf incurs acceptable overhead and scales to large executions. GVProf provides useful insights to guide performance optimization. Under the guidance of GVPROF, we optimized several HPC and machine learning workloads, obtaining speedups up to 1.93x."
+summary = "We implemented GVProf, the first value profiler that locates value redundancy problems in applications running on GPU-based clusters. Our experiments show that GVProf incurs acceptable overhead and scales to large executions. GVProf provides useful insights to guide performance optimization. Under the guidance of GVProf, we optimized several HPC and machine learning workloads, obtaining speedups up to 1.93x."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
