@@ -1,5 +1,5 @@
 +++
-title = "PPoPP20"
+title = "A tool for top-down performance analysis of GPU-accelerated applications"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
