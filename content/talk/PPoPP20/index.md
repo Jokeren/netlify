@@ -1,5 +1,5 @@
 +++
-title = "A Tool For Top-down Performance Analysis of GPU-accelerated Applications"
+title = "A Tool for Top-down Performance Analysis of GPU-accelerated Applications"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

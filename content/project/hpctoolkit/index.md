@@ -5,7 +5,7 @@ draft = false
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Performance Tool", "Parallel Computing"]
+tags = ["Performance Tool", "Parallel Computing", "GPU"]
 
 # Project summary to display on homepage.
 summary = "Our tool provides a profile view and a trace view for GPU-accelerated applications. The profile view identifies where GPU APIs are invoked in CPU calling context, approximates calling context for GPU execution, and analyzes instruction mix for GPU kernels. The tool traces CPU and GPU activities for a large number of processes and threads with minimal overhead."
