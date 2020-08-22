@@ -41,6 +41,8 @@ subtitle = ""
  css_class = ""
 +++
 
+- *Jun 2020* Attended ICS'20
+- *May 2020* Joined Google
 - *Feb 2020* Attended PPoPP'20
 - *Nov 2019* Attended SC'19
 - *Aug 2019* Took part in [ECP/NERSC OpenMP Hackathon 2019](https://www.nersc.gov/users/training/events/ecp-nersc-openmp-hackathon-aug2019/)
