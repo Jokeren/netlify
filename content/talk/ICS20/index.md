@@ -1,5 +1,5 @@
 +++
-title = "ICS20"
+title = "Tools for Top-down Performance Analysis of GPU-Accelerated Applications"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
