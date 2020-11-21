@@ -41,6 +41,7 @@ subtitle = ""
  css_class = ""
 +++
 
+- *Nov 2020* Attended SC'20 and was awareded [ACM–IEEE-CS George Michael Memorial HPC Fellowship] (https://awards.acm.org/award_winners/zhou_9901476)
 - *Jun 2020* Attended ICS'20
 - *May 2020* Joined Google
 - *Feb 2020* Attended PPoPP'20
