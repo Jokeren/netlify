@@ -11,7 +11,7 @@ all_day = false
 publishDate = 2020-11-21T15:06:34-08:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Keren Zhou]
+authors = ["Keren Zhou"]
 
 # Location of event.
 location = "Online"
