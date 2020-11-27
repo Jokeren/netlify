@@ -1,5 +1,5 @@
 +++
-title = "SC20"
+title = "GVProf: A Value Profiler for GPU-Based Clusters"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
