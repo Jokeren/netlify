@@ -24,7 +24,7 @@ event_url = ""
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Presented our GVProf'20 work."
+summary = "Presented our SC'20 work."
 
 # Is this a featured talk? (true/false)
 featured = false
