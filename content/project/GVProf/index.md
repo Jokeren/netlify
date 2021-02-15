@@ -19,11 +19,11 @@ summary = "We implemented GVProf, the first value profiler that locates value re
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Jokeren/GVProf"
+external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/Jokeren/GVProf"
 url_dataset = ""
 url_slides = ""
 url_video = ""

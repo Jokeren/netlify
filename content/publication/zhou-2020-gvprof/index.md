@@ -7,4 +7,5 @@ abstract = "GPGPUs are widely used in high-performance computing systems to acce
 featured = false
 publication = "*Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis* (SC'20)"
 url_source = "https://dl.acm.org/doi/10.5555/3433701.3433819"
+projects = ["GVProf"]
 +++

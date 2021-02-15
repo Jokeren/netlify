@@ -17,14 +17,14 @@ authors = ["Keren Zhou"]
 location = "San Diego, California"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "PPoPP20"
+event_url = "https://ppopp20.sigplan.org/"
 
 # Abstract. What's your talk about?
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Presented our GPU performance tool"
+summary = "Presented a poster and a short talk about HPCToolkit's GPU support at PPoPP'20"
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -51,7 +51,7 @@ url_poster = "assets/PPoPP_20_poster.pdf"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["hpctoolkit"]
 
 # Links (optional).
 url_pdf = ""

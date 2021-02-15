@@ -19,11 +19,11 @@ summary = "Our tool provides a profile view and a trace view for GPU-accelerated
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/HPCToolkit/hpctoolkit/tree/master-gpu"
+external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/HPCToolkit/hpctoolkit"
 url_dataset = ""
 url_slides = ""
 url_video = ""

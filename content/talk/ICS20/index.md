@@ -17,8 +17,8 @@ authors = ["Keren Zhou"]
 location = "Online"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "ICS20"
+event_url = "https://ics2020.bsc.es/"
 
 # Abstract. What's your talk about?
 abstract = ""
@@ -50,7 +50,7 @@ url_slides = "assets/ICS20_slides.pdf"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["hpctoolkit"]
 
 # Links (optional).
 url_pdf = ""

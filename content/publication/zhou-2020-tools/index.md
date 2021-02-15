@@ -7,7 +7,7 @@ abstract = "This paper describes extensions to Rice University's HPCToolkit perf
 featured = false
 publication = "*Proceedings of the 34th ACM International Conference on Supercomputing* (ICS'20)"
 tags = ["calling context tree", "profiler", "roofline", "GPU", "wait-free", "HPC"]
-url_pdf = "https://doi.org/10.1145/3392717.3392752"
-doi = "10.1145/3392717.3392752"
+url_source = "https://doi.org/10.1145/3392717.3392752"
+projects = ["hpctoolkit"]
 +++
 

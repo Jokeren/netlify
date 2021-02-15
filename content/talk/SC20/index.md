@@ -17,8 +17,8 @@ authors = ["Keren Zhou"]
 location = "Online"
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "SC'20"
+event_url = "https://sc20.supercomputing.org/proceedings/tech_paper/tech_paper_pages/pap359.html"
 
 # Abstract. What's your talk about?
 abstract = ""
@@ -27,7 +27,7 @@ abstract = ""
 summary = "Presented our SC'20 work."
 
 # Is this a featured talk? (true/false)
-featured = false
+featured = true
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
@@ -50,7 +50,7 @@ url_slides = "assets/SC20_slides.pdf"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["GVProf"]
 
 # Links (optional).
 url_pdf = ""

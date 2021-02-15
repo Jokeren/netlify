@@ -17,14 +17,14 @@ authors = ["Keren Zhou"]
 location = "Lake Tahoe, California"
 
 # Name of event and optional event URL.
-event = ""
+event = "PETASCALE19"
 event_url = "https://dyninst.github.io/scalable_tools_workshop/petascale2019/monday.html"
 
 # Abstract. What's your talk about?
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Presented our GPU performance tool"
+summary = "Presented the prototype of HPCToolkit's GPU support at PETASCALE'19"
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -50,7 +50,7 @@ url_slides = "https://dyninst.github.io/scalable_tools_workshop/petascale2019/as
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["hpctoolkit"]
 
 # Links (optional).
 url_pdf = ""

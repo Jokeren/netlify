@@ -7,5 +7,6 @@ abstract = ""
 featured = false
 publication = "*Proceedings of the 2019 IEEE/ACM International Symposium on Code Generation and Optimization* (CGO'19)"
 url_source = "https://dl.acm.org/citation.cfm?id=3314914"
+projects = ["hpctoolkit"]
 +++
 

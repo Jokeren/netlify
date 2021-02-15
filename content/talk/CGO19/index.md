@@ -17,14 +17,14 @@ authors = ["Keren Zhou"]
 location = "Washington, D.C."
 
 # Name of event and optional event URL.
-event = ""
-event_url = ""
+event = "CGO19"
+event_url = "https://cgo.org/cgo2019/"
 
 # Abstract. What's your talk about?
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Presented the prototype of our GPU performance tool"
+summary = "Presented the prototype of HPCToolkit's GPU support at CGO'19"
 
 # Is this a featured talk? (true/false)
 featured = false
@@ -51,7 +51,7 @@ url_poster = "assets/CGO_19_poster.pdf"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = []
+projects = ["hpctoolkit"]
 
 # Links (optional).
 url_pdf = ""

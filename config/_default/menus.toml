@@ -29,13 +29,13 @@
   weight = 50
 
 [[main]]
-  name = "News"
-  url = "#news"
+  name = "Topics"
+  url = "#tags"
   weight = 60
 
 [[main]]
-  name = "Topics"
-  url = "#tags"
+  name = "News"
+  url = "news/"
   weight = 70
 
 #[[main]]

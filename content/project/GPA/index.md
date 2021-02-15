@@ -19,11 +19,11 @@ summary = "GPA is a performance advisor for NVIDIA GPUs that suggests potential 
 slides = ""
 
 # Optional external URL for project (replaces project detail page).
-external_link = "https://github.com/Jokeren/GPA"
+external_link = ""
 
 # Links (optional).
 url_pdf = ""
-url_code = ""
+url_code = "https://github.com/Jokeren/GPA"
 url_dataset = ""
 url_slides = ""
 url_video = ""
