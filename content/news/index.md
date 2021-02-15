@@ -15,7 +15,7 @@ header:
 ---
 
 - *Jan 2021* Took part in [NERSC/SOLLVE OpenMP Hackathon 2021](https://sites.google.com/view/ecpomphackjan2021/home)
-- *Nov 2020* Attended SC'20 and was awareded [ACM–IEEE-CS George Michael Memorial HPC Fellowship] (https://awards.acm.org/award_winners/zhou_9901476)
+- *Nov 2020* Attended SC'20 and was awareded [ACM-IEEE-CS George Michael Memorial HPC Fellowship] (https://awards.acm.org/award_winners/zhou_9901476)
 - *Jun 2020* Attended ICS'20
 - *May 2020* Joined Google
 - *Mar 2020* Attended ECP'20
