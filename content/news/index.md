@@ -14,6 +14,8 @@ header:
   image: ""
 ---
 
+- *Apr 2021* Presented [HPCToolkit Tutorial](https://www.nersc.gov/users/training/events/hpctoolkit-for-gpu-tutorial-mar-apr-2021/) at NERSC
+- *Mar 2021* Attended CGO'21
 - *Jan 2021* Took part in [NERSC/SOLLVE OpenMP Hackathon 2021](https://sites.google.com/view/ecpomphackjan2021/home)
 - *Nov 2020* Attended SC'20 and was awareded [ACM-IEEE-CS George Michael Memorial HPC Fellowship] (https://awards.acm.org/award_winners/zhou_9901476)
 - *Jun 2020* Attended ICS'20
