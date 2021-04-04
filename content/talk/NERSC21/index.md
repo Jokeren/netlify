@@ -1,5 +1,5 @@
 +++
-title = "NERSC21"
+title = "Analyzing GPU-accelerated Applications Using HPCToolkit"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
