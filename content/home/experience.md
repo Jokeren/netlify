@@ -23,8 +23,8 @@ date_format = "January 2006"
   company = "Nvidia"
   company_url = ""
   location = "Dallas"
-  date_start = "2020-05-17"
-  date_end = "2020-08-20"
+  date_start = "2021-05-17"
+  date_end = "2021-08-20"
   description = """Performance Profiling for Deep Learning Frameworks
   """
 
