@@ -20,7 +20,17 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Software Engineering Intern"
-  company = "Google Inc"
+  company = "Nvidia"
+  company_url = ""
+  location = "Dallas"
+  date_start = "2020-05-17"
+  date_end = "2020-08-20"
+  description = """Performance Profiling for Deep Learning Frameworks
+  """
+
+[[experience]]
+  title = "Software Engineering Intern"
+  company = "Google"
   company_url = ""
   location = "Houston"
   date_start = "2020-05-23"
@@ -30,7 +40,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Facebook Inc"
+  company = "Facebook"
   company_url = ""
   location = "California"
   date_start = "2018-06-23"
@@ -40,7 +50,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "Research Intern"
-  company = "Nvidia Inc"
+  company = "Nvidia"
   company_url = ""
   location = "Beijing"
   date_start = "2017-04-01"
@@ -50,7 +60,7 @@ date_format = "January 2006"
 
 [[experience]]
   title = "SDE Intern"
-  company = "Baidu Inc"
+  company = "Baidu"
   company_url = ""
   location = "Beijing"
   date_start = "2013-10-01"
