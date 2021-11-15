@@ -7,6 +7,6 @@ abstract = ""
 featured = false
 publication = "*ACM SIGPLAN Notices* (PPoPP'17)"
 url_source = "https://dl.acm.org/citation.cfm?id=3018755"
-tags = ["Deep Learning", "GPU"]
+tags = ["Deep Learning", "GPU", "Roofline"]
 +++
 
