@@ -16,17 +16,17 @@ role = "Graduate Student"
 organizations = [ { name = "Rice University", url = "https://www.rice.edu/" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Concurrent Age"
+bio = ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "kerenzhou@outlook.com"
 
 # List (academic) interests or hobbies
 interests = [
-  "Concurrent Algorithms",
-  "Parallel Computing",
-  "Performance Tools",
-  "Data Mining Algorithms"
+  "High Performance Computing",
+  "Parallel Algorithms",
+  "Program Analysis",
+  "Machine Learning"
 ]
 
 # Organizational groups that you belong to (for People widget)
