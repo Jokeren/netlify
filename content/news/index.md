@@ -13,7 +13,8 @@ header:
   caption: "NEWS"
   image: ""
 ---
-
+- *Mar 2022* Attended ASPLOS'21
+- *Nov 2021* Attended SC'21
 - *Apr 2021* Presented [HPCToolkit Tutorial](https://www.nersc.gov/users/training/events/hpctoolkit-for-gpu-tutorial-mar-apr-2021/) at NERSC
 - *Mar 2021* Attended CGO'21
 - *Jan 2021* Took part in [NERSC/SOLLVE OpenMP Hackathon 2021](https://sites.google.com/view/ecpomphackjan2021/home)
