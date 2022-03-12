@@ -24,7 +24,7 @@ event_url = "https://asplos-conference.org/"
 abstract = ""
 
 # Summary. An optional shortened abstract.
-summary = "Presented a talk about our value profiling tool at ASPLOS'20"
+summary = "Presented a talk about our value profiling tool at ASPLOS'22"
 
 # Is this a featured talk? (true/false)
 featured = false
