@@ -1,5 +1,5 @@
 +++
-title = "*ValueExpert: exploring value patterns in GPU-accelerated applications*"
+title = *"ValueExpert: exploring value patterns in GPU-accelerated applications"*
 date = 2022-03-02
 authors = ["**Keren Zhou**", "Yueming Hao", "John Mellor-Crummey", "Xiaozhu Meng", "Xu Liu"]
 publication_types = ["1"]
