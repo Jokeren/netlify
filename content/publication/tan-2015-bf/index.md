@@ -1,7 +1,7 @@
 +++
 title = "BF-MapReduce: A Bloom Filter Based Efficient Lightweight Search"
 date = 2015-01-01
-authors = ["Zilong Tan", "Keren Zhou", "Hao Zhang", "Wei Zhou"]
+authors = ["Zilong Tan", "**Keren Zhou**", "Hao Zhang", "Wei Zhou"]
 publication_types = ["1"]
 abstract = ""
 featured = false

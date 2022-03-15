@@ -1,7 +1,7 @@
 +++
 title = "A tool for top-down performance analysis of GPU-accelerated applications"
 date = 2020-02-01
-authors = ["Keren Zhou", "Mark Krentel", "John Mellor-Crummey"]
+authors = ["**Keren Zhou**", "Mark Krentel", "John Mellor-Crummey"]
 publication_types = ["1"]
 abstract = ""
 featured = false
