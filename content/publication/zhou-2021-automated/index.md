@@ -7,6 +7,6 @@ abstract = "The US Department of Energys fastest supercomputers and forthcoming 
 featured = false
 tags = ["GPU", "Feedback-directed Optimization", "HPC", "PC Sampling", "Instrumentation"]
 publication = "*IEEE Transactions on Parallel and Distributed Systems* (TPDS'21)"
-url_source = "ieeexplore.ieee.org/document/9470950"
+url_source = "https://ieeexplore.ieee.org/document/9470950"
 projects = ["GPA"]
 +++
