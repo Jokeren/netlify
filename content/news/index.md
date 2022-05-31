@@ -15,7 +15,7 @@ header:
 ---
 - *May 2022* Graduated from Rice
 - *Mar 2022* Attended PPoPP'22
-- *Mar 2022* Attended ASPLOS'22
+- *Mar 2022* Attended ASPLOS'22 and was awared the [Distinguished Artifact Award](https://asplos-conference.org/2022/)
 - *Nov 2021* Attended SC'21
 - *May 2021* Joined NVIDIA
 - *Apr 2021* Presented [HPCToolkit Tutorial](https://www.nersc.gov/users/training/events/hpctoolkit-for-gpu-tutorial-mar-apr-2021/) at NERSC
