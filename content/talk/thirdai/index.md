@@ -1,5 +1,5 @@
 +++
-title = "Practical Optimization for Deep Learning Applications"
+title = "Practical Performance Optimization for Deep Learning Applications"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
