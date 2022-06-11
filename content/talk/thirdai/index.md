@@ -1,5 +1,5 @@
 +++
-title = "GPA: A GPU Performance Advisor Based on Instruction Sampling"
+title = "Practical Optimization for Deep Learning Applications"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
