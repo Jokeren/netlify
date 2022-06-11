@@ -93,6 +93,6 @@ user_groups = []
 
 +++
 
-I am a graduate student at Rice University, advised by Professor [John Mellor-Crummey](https://www.cs.rice.edu/~johnmc/). Previously, I studied at Institute of Computing Technology, Chinese Academy of Sciences in Professor [Guangming Tan](http://www.ncic.ac.cn/~tgm/index.php/Main_Page)'s [PAA group](https://github.com/PAA-NCIC). Prior to that, I was an undergraduate student in Yunnan University, advised by Professor Wei Zhou.
+I am a Member of Technical Staff at [OpenAI](https://openai.com). I obtained my Ph.D. degree from Rice University, advised by Professor [John Mellor-Crummey](https://www.cs.rice.edu/~johnmc/). Previously, I studied at Institute of Computing Technology, Chinese Academy of Sciences in Professor [Guangming Tan](https://ieeexplore.ieee.org/author/37552741100)'s [PAA group](https://github.com/PAA-NCIC). Prior to that, I was an undergraduate student at Yunnan University, advised by Professor [Wei Zhou](https://ieeexplore.ieee.org/author/37085625745).
 
 Resume [brief](assets/resume_brief.pdf), [full](assets/resume_full.pdf)

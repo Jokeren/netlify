@@ -13,6 +13,7 @@ header:
   caption: "NEWS"
   image: ""
 ---
+- *June 2022* Joined OpenAI
 - *May 2022* Graduated from Rice
 - *Mar 2022* Attended PPoPP'22
 - *Mar 2022* Attended ASPLOS'22 and was awared the [Distinguished Artifact Award](https://asplos-conference.org/2022/)
