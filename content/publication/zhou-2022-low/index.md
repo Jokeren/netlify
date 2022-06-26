@@ -8,6 +8,6 @@ featured = true
 publication = "*Proceedings of the 36th ACM International Conference on Supercomputing* (ICS'22)"
 tags = ["GPU", "HPC", "PC Sampling", "Profiler", "Performance Tool"]
 url_source = "https://dl.acm.org/doi/abs/10.1145/3524059.3532388"
-projects = ["HPCToolkit"]
+projects = ["hpctoolkit"]
 +++
 
