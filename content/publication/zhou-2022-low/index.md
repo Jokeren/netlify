@@ -1,5 +1,5 @@
 +++
-title = "Low Overhead and Context Sensitive Profiling of CPU-Accelerated Applications"
+title = "Low Overhead and Context Sensitive Profiling of GPU-Accelerated Applications"
 date = 2022-06-26
 authors = ["**Keren Zhou**", "Jonathon Anderson", "Xiaozhu Meng", "John Mellor-Crummey"]
 publication_types = ["1"]
