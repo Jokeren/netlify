@@ -13,6 +13,7 @@ header:
   caption: "NEWS"
   image: ""
 ---
+- *Nov 2022* Attended SC'22
 - *June 2022* Joined OpenAI
 - *May 2022* Graduated from Rice
 - *Mar 2022* Attended PPoPP'22
