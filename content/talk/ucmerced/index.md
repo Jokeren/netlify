@@ -50,7 +50,7 @@ url_slides = "assets/Triton_next.pdf"
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["triton"]
+projects = ["Triton"]
 
 # Links (optional).
 url_pdf = ""
