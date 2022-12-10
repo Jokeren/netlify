@@ -8,7 +8,7 @@ draft = false
 tags = ["GPU", "Programming Language"]
 
 # Project summary to display on homepage.
-summary = "Triton, a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment for expressing tensor math workloads that offers high flexibility, developer productivity and end to end performance."
+summary = "Triton is a language and compiler for writing highly efficient custom Deep-Learning primitives. The aim of Triton is to provide an open-source environment for expressing tensor math workloads that offers high flexibility, developer productivity and end to end performance."
 
 # Slides (optional).
 #   Associate this page with Markdown slides.
